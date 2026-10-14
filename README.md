@@ -1,1 +1,1 @@
-# Welcome to our project
+# This repo is for practice
